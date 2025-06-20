@@ -113,7 +113,7 @@ All sensitive configuration should be placed in a `.env` file (see above for an 
 - `/login/` – Web login page
 The login does not redirect[just a page to to check user credentials]
 
-NB:Use Postman to check the api routes
+**NB**:Use Postman to check the api routes
 
 ## Telegram Bot
 
