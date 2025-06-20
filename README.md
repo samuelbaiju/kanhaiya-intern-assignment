@@ -1,4 +1,4 @@
-# My Django Project
+# INTERN Assignment
 
 ## Features
 - Django REST API with JWT authentication
