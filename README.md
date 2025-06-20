@@ -140,3 +140,4 @@ git push
 - Initialize git, add `.gitignore`, commit, push to GitHub.
 - Write a detailed `README.md` with setup, env vars, run instructions, and API docs.
 - Keep your code and commit history clean and well-documented.
+########
